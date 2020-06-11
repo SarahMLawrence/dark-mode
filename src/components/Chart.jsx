@@ -34,6 +34,8 @@ const Chart = ({ sparklineData }) => {
       <YAxis />
       <Tooltip />
     </LineChart>
+  
+    
   );
 };
 
